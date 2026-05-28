@@ -8,8 +8,11 @@ This application makes it easier to search for documents by:
 4. The system will display the file name, storage location (path), along with the reason why that specific file was selected.
 
 
--------- HOW IT WORKSS ---------
+-------- CARA KERJA ---------
+(language: Bahasa Indonesia)
+
 [MASALAH YANG DISELESAIKAN]
+
 User ingin mencari dokumen di PC-nya hanya dengan mendeskripsikan isinya,
 tanpa perlu ingat nama file atau lokasi folder.
 
@@ -64,5 +67,5 @@ Chat Output
 [HASIL AKHIR]
 User mendapat jawaban:
 - File Name : future_plan_nicky.docx
-- File Path : C:/Users/lauda/Documents/Personal/future_plan_nicky.docx
-- Alasan    : Dokumen ini membahas rencana pribadi jangka panjang Nicky Lauda Alghifari
+- File Path : C:/Users/future_plan_nicky.docx
+- Alasan    : Dokumen ini membahas rencana pribadi jangka panjang Nicky
